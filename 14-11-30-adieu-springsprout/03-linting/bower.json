@@ -1,0 +1,12 @@
+{
+  "name": "01-dependency",
+  "version": "0.0.0",
+  "authors": [
+    "Outsider <outsideris@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.3.1"
+  }
+}
